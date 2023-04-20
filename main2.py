@@ -1,4 +1,4 @@
-#
+#Backpack class
 
 class Backpack:
     # Constructor
